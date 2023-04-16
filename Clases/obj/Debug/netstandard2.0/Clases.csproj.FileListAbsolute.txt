@@ -1,0 +1,63 @@
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Clases\obj\Debug\netstandard2.0\Clases.pdb

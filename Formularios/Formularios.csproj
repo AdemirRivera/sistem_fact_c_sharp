@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{332B8C69-5698-4F00-94A9-14310304B73C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Formularios</RootNamespace>
+    <AssemblyName>Formularios</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Downloads\[FTUApps.com] - Guna UI Framework Ultimate v2.0.0.1 + Keygen\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.2, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.2\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\frmDeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmDeleteUser.designer.cs">
+      <DependentUpon>frmDeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrReportes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrReportes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmAdminLogin.designer.cs">
+      <DependentUpon>frmAdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCiudad.Designer.cs">
+      <DependentUpon>frmCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCategoriaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmCategoriaProducto.Designer.cs">
+      <DependentUpon>frmCategoriaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCategoriaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCategoriaProducto.Designer.cs">
+      <DependentUpon>frmCRUDCategoriaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCiudad.Designer.cs">
+      <DependentUpon>frmCRUDCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDCliente.Designer.cs">
+      <DependentUpon>frmCRUDCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDProducto.Designer.cs">
+      <DependentUpon>frmCRUDProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDProveedor.Designer.cs">
+      <DependentUpon>frmCRUDProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDSucursal.Designer.cs">
+      <DependentUpon>frmCRUDSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDTelProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDTelProveedor.Designer.cs">
+      <DependentUpon>frmCRUDTelProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDTelSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDTelSucursal.Designer.cs">
+      <DependentUpon>frmCRUDTelSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD CreateUpdate\frmCRUDVendedor.Designer.cs">
+      <DependentUpon>frmCRUDVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmMenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmMenuAdmin.designer.cs">
+      <DependentUpon>frmMenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmRegistrarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmRegistrarUser.Designer.cs">
+      <DependentUpon>frmRegistrarUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmSucursal.Designer.cs">
+      <DependentUpon>frmSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmVendedor.Designer.cs">
+      <DependentUpon>frmVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmProveedor.Designer.cs">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmTelProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmTelProveedor.Designer.cs">
+      <DependentUpon>frmTelProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmTelSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmTelSucursal.Designer.cs">
+      <DependentUpon>frmTelSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD%27S Menu\frmProducto.Designer.cs">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporte.Designer.cs">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin\frmDeleteUser.resx">
+      <DependentUpon>frmDeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrReportes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrReportes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmCiudad.resx">
+      <DependentUpon>frmCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmAdminLogin.resx">
+      <DependentUpon>frmAdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmVendedor.resx">
+      <DependentUpon>frmVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmCategoriaProducto.resx">
+      <DependentUpon>frmCategoriaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDCategoriaProducto.resx">
+      <DependentUpon>frmCRUDCategoriaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDCiudad.resx">
+      <DependentUpon>frmCRUDCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDCliente.resx">
+      <DependentUpon>frmCRUDCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDProducto.resx">
+      <DependentUpon>frmCRUDProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDProveedor.resx">
+      <DependentUpon>frmCRUDProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDSucursal.resx">
+      <DependentUpon>frmCRUDSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDTelProveedor.resx">
+      <DependentUpon>frmCRUDTelProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDTelSucursal.resx">
+      <DependentUpon>frmCRUDTelSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD CreateUpdate\frmCRUDVendedor.resx">
+      <DependentUpon>frmCRUDVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmMenuAdmin.resx">
+      <DependentUpon>frmMenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmRegistrarUser.resx">
+      <DependentUpon>frmRegistrarUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmSucursal.resx">
+      <DependentUpon>frmSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmProveedor.resx">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmTelProveedor.resx">
+      <DependentUpon>frmTelProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmTelSucursal.resx">
+      <DependentUpon>frmTelSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD%27S Menu\frmProducto.resx">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporte.resx">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Clases.ClsCategoriaProducto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Clases\Clases.csproj">
+      <Project>{368b1500-3897-4144-976a-ec849340e74c}</Project>
+      <Name>Clases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

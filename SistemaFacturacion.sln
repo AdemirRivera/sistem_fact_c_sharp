@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{332B8C69-5698-4F00-94A9-14310304B73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{368B1500-3897-4144-976A-EC849340E74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332B8C69-5698-4F00-94A9-14310304B73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332B8C69-5698-4F00-94A9-14310304B73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332B8C69-5698-4F00-94A9-14310304B73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332B8C69-5698-4F00-94A9-14310304B73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368B1500-3897-4144-976A-EC849340E74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368B1500-3897-4144-976A-EC849340E74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368B1500-3897-4144-976A-EC849340E74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368B1500-3897-4144-976A-EC849340E74C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A092D53B-D2B9-4753-BB3E-F28E9F2BC329}
+	EndGlobalSection
+EndGlobal

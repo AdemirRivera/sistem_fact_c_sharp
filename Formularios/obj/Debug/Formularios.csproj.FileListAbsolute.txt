@@ -1,0 +1,1023 @@
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProductos.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmVentas.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmReportes.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\netstandard.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Console.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Clases.dll
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\bin\Debug\Clases.pdb
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProducto.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Kike\source\repos\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\netstandard.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Console.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProducto.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProductos.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmReportes.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmVentas.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacion\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmFactura.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\netstandard.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Console.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.CRUD_S.frmCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmProducto_.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDFactura.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmCRUDVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\stdole.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kike\Downloads\SistemaFacturacion (1)\SistemaFacturacion\Formularios\obj\Debug\Formularios.frmReporte.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.pdb
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\netstandard.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Console.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\stdole.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.pdb
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCiudad.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.CRUD_S.frmCliente.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmFactura.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmVendedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCategoriaProducto.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCategoriaProducto.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDFactura.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCiudad.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCliente.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProducto.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProveedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDSucursal.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelProveedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelSucursal.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDVendedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmSucursal.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProveedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelProveedor.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelSucursal.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProducto_.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmReporte.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe
+C:\Users\ventura\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\netstandard.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Console.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\stdole.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.CRUD_S.frmCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmFactura.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDFactura.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProducto_.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmReporte.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\netstandard.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Console.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\stdole.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.pdb
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.CRUD_S.frmCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCategoriaProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCiudad.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCliente.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProducto.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDVendedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelProveedor.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelSucursal.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProducto_.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmReporte.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe
+C:\Users\Kike\Downloads\SistemaFacturacionUpdate\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe.config
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmDeleteUser.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCiudad.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.CRUD_S.frmCliente.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmAdminAdd.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmVendedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCategoriaProducto.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCategoriaProducto.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCiudad.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDCliente.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProducto.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDProveedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDSucursal.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelProveedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDTelSucursal.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmCRUDVendedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmLogin.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmMenuAdmin.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmRegistrarUser.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmSucursal.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProveedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelProveedor.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmTelSucursal.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmProducto_.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.frmReporte.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Menu.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.exe
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.exe
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\netstandard.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.AppContext.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Console.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.Common.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.Pipes.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Http.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Ping.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Requests.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Security.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.Sockets.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ObjectModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Reader.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Resources.Writer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Claims.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.Principal.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Security.SecureString.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Thread.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Threading.Timer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.ValueTuple.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\stdole.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\Clases.pdb
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Rivera de López\Desktop\(Warning) Packages\Backups & photos\Ulises\Copia Usb\CICLO II\Proyecto\SistemaFacturacionUpdate\Formularios\obj\Debug\Formularios.csproj.CopyComplete
